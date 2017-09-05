@@ -1,0 +1,23 @@
+body, h1,h3,p{
+	font-family: "Comic Sans MS","Times New Roman", Arial;
+	font-weight: bold;
+}
+
+.container{
+	text-align: center;
+	padding-top: 50px;
+}
+
+hr{
+	width 500px;
+	border-top: 1px solid #FF0000;
+}
+
+.quote-box {
+	border: 1px dashed red;
+	border-radius: 5px;
+	padding: 10px;
+	margin-bottom: 20px;
+	background-color: white;
+	color: black;
+}
